@@ -15,7 +15,7 @@ cd PWL-STS-SAS-K2
 
 Jalankan proyek dengan server lokal seperti XAMPP atau Laragon. Tempatkan folder di htdocs/ (untuk XAMPP), lalu akses di browser melalui:
 
-http://localhost/lumina-school-website/index.html
+(http://localhost:2345/index.html)
 
 🌐 Cara Menggunakan
 
