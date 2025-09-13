@@ -7,7 +7,7 @@ Lumina International School adalah platform digital yang dirancang untuk memperk
 
 Salin repository ini ke komputer Anda:
 
-git clone [https://github.com/username/lumina-school-website.git]
+git clone (https://github.com/kkaeduU/Lumina-Internasional-School-K2.git)
 
 Masuk ke folder project:
 
