@@ -3,6 +3,7 @@ Kelompok 2 Lumina International School 🌟
 
 Lumina International School adalah platform digital yang dirancang untuk memperkenalkan sekolah kami sebagai institusi pendidikan modern yang mengintegrasikan pembelajaran global dan teknologi digital. Website ini menyediakan informasi lengkap mengenai profil sekolah, program akademik, serta layanan interaktif untuk siswa, guru, dan orang tua.
 
+
  1. Setup
 
 Salin repository ini ke komputer Anda:
@@ -13,9 +14,10 @@ Masuk ke folder project:
 
 cd PWL-STS-SAS-K2
 
-Jalankan proyek dengan server lokal seperti XAMPP atau Laragon. Tempatkan folder di htdocs/ (untuk XAMPP), lalu akses di browser melalui:
+Jalankan proyek dengan server lokal seperti Laragon. lalu akses di browser melalui:
 
-(http://localhost:2345/index.html)
+(http://localhost:2345/index.html) angka setelah host di sarankan menggunakan angka yang berbeda.
+
 
  2. Cara Menggunakan
 
@@ -35,13 +37,15 @@ Logout → Keluar dari sesi pengguna.
 
 🗂 Struktur Project lumina-school-website/ │── image1/ # Folder gambar/ikon │── contact.php # Halaman kontak │── dashboard.php # Dashboard utama │── index.html # Landing page │── login.php # Form login │── logout.php # Keluar sistem │── page1.php # Konten halaman 1 │── page2.php │── page3.php │── page4.php │── page5.php │── page6.php │── signup.php # Form registrasi │── style.css # Desain visual │── README.md # Dokumentasi project
 
+
  3. Teknologi yang digunakan
 
-HTML5 → Struktur halaman
+HTML → Struktur halaman
 
-CSS3 → Tampilan visual
+CSS → Tampilan visual
 
 PHP → Proses backend & login system
+
 
  4. Kontribusi
 
@@ -59,22 +63,23 @@ Push ke repository Anda dan ajukan Pull Request.
 
 Diskusi & review akan dilakukan sebelum digabungkan.
 
+
  5. Pedoman:
 
 Kode harus rapi, konsisten, dan terdokumentasi.
 
-Uji fitur sebelum diajukan.
+Uji fitur sebelum diajukan, seperti fitur login yang menggunakan akun, tersambung kedalam database)
 
-Bersikap kolaboratif dan terbuka terhadap masukan.
+Bersikap kolaboratif dan terbuka terhadap masukan yang telah diberikan kepada kami (kelompok 2)\
 
- 6. Lisensi
 
-Website ini berada di bawah lisensi MIT License. Anda bebas memodifikasi dan menyebarluaskan dengan tetap menyertakan kredit kepada pengembang asli.
 
  7. Tim Pengembang
 
-1. Eduardo Gunawan (Front-End Developer)
+1. Eduardo Gunawan (Front-End Developer) 
 
 2. Vinno Alvian Chow (Back-End Developer)
 
 3. Gracia Queen Anastacia (UI/UX Designer)
+
+Terimakasih Atas kerja samanya.
