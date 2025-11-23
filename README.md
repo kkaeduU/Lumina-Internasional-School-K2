@@ -10,6 +10,10 @@ Salin repository ini ke komputer Anda:
 
 git clone (https://github.com/kkaeduU/Lumina-Internasional-School-K2.git)
 
+Download File dari GitHub ini:
+
+
+
 Masuk ke folder project:
 
 cd PWL-STS-SAS-K2
