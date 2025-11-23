@@ -1,4 +1,4 @@
-Lumina-Internasional-School
+![List File-file di VSC](https://github.com/user-attachments/assets/54cef69a-316f-4360-be57-74c13b565a00)Lumina-Internasional-School
 Kelompok 2 Lumina International School 🌟
 
 Lumina International School adalah platform digital yang dirancang untuk memperkenalkan sekolah kami sebagai institusi pendidikan modern yang mengintegrasikan pembelajaran global dan teknologi digital. Website ini menyediakan informasi lengkap mengenai profil sekolah, program akademik, serta layanan interaktif untuk siswa, guru, dan orang tua.
@@ -12,11 +12,14 @@ git clone (https://github.com/kkaeduU/Lumina-Internasional-School-K2.git)
 
 Download File dari GitHub ini:
 
-
+<img width="408" height="360" alt="image" src="https://github.com/user-attachments/assets/6acf8672-3a62-4871-a845-530a78afaa3b" />
 
 Masuk ke folder project:
 
+![Cara buka filenya](https://github.com/user-attachments/assets/db6dd8f7-3bbf-49e3-b441-6374f1d0c8b6)
+
 cd PWL-STS-SAS-K2
+
 
 Jalankan proyek dengan server lokal seperti Laragon. lalu akses di browser melalui:
 
@@ -27,15 +30,12 @@ Jalankan proyek dengan server lokal seperti Laragon. lalu akses di browser melal
 
 Buka index.html sebagai halaman utama.
 
-Gunakan menu navigasi untuk menjelajahi:
+![List File-file di VSC](https://github.com/user-attachments/assets/e008ef41-22fd-40a0-9276-bde7e9ee3c58)
 
-Dashboard → Pusat aktivitas pengguna.
 
 Login / Signup → Sistem autentikasi dan pendaftaran akun.
 
-Halaman 1–6 → Konten pembelajaran & informasi sekolah.
-
-Contact → Formulir untuk menghubungi pihak sekolah.
+Halaman 1–6 → Konten pembelajaran & informasi sekolah. (Kami belum menemukan solusi untuk mengganti nama filenya dikarenakan kekurangan waktu)
 
 Logout → Keluar dari sesi pengguna.
 
@@ -80,10 +80,11 @@ Bersikap kolaboratif dan terbuka terhadap masukan yang telah diberikan kepada ka
 
  7. Tim Pengembang
 
-1. Eduardo Gunawan (Front-End Developer) 
+1. Eduardo Gunawan |https://github.com/kkaeduU| (Front-End Developer) 
 
-2. Vinno Alvian Chow (Back-End Developer)
+2. Vinno Alvian Chow |https://github.com/Vinnnnnnnnnnnnnnnnnnn| (Back-End Developer)
 
-3. Gracia Queen Anastacia (UI/UX Designer)
+3. Gracia Queen Anastacia |https://github.com/gracia018-cmd| (UI/UX Designer)
 
-Terimakasih Atas kerja samanya.
+Terimakasih Atas Perhatiannya...
+-Kelompok 2
