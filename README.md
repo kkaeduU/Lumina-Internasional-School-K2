@@ -3,7 +3,7 @@ Kelompok 2 Lumina International School 🌟
 
 Lumina International School adalah platform digital yang dirancang untuk memperkenalkan sekolah kami sebagai institusi pendidikan modern yang mengintegrasikan pembelajaran global dan teknologi digital. Website ini menyediakan informasi lengkap mengenai profil sekolah, program akademik, serta layanan interaktif untuk siswa, guru, dan orang tua.
 
-⚙️ Setup
+ 1. Setup
 
 Salin repository ini ke komputer Anda:
 
@@ -17,7 +17,7 @@ Jalankan proyek dengan server lokal seperti XAMPP atau Laragon. Tempatkan folder
 
 (http://localhost:2345/index.html)
 
-🌐 Cara Menggunakan
+ 2. Cara Menggunakan
 
 Buka index.html sebagai halaman utama.
 
@@ -35,7 +35,7 @@ Logout → Keluar dari sesi pengguna.
 
 🗂 Struktur Project lumina-school-website/ │── image1/ # Folder gambar/ikon │── contact.php # Halaman kontak │── dashboard.php # Dashboard utama │── index.html # Landing page │── login.php # Form login │── logout.php # Keluar sistem │── page1.php # Konten halaman 1 │── page2.php │── page3.php │── page4.php │── page5.php │── page6.php │── signup.php # Form registrasi │── style.css # Desain visual │── README.md # Dokumentasi project
 
-Teknologi yang digunakan
+ 3. Teknologi yang digunakan
 
 HTML5 → Struktur halaman
 
@@ -43,7 +43,7 @@ CSS3 → Tampilan visual
 
 PHP → Proses backend & login system
 
-🤲 Kontribusi
+ 4. Kontribusi
 
 Kami mengapresiasi setiap bentuk kontribusi untuk mengembangkan website Lumina agar lebih interaktif dan bermanfaat.
 
@@ -59,7 +59,7 @@ Push ke repository Anda dan ajukan Pull Request.
 
 Diskusi & review akan dilakukan sebelum digabungkan.
 
-Pedoman:
+ 5. Pedoman:
 
 Kode harus rapi, konsisten, dan terdokumentasi.
 
@@ -67,14 +67,14 @@ Uji fitur sebelum diajukan.
 
 Bersikap kolaboratif dan terbuka terhadap masukan.
 
-📑 Lisensi
+ 6. Lisensi
 
 Website ini berada di bawah lisensi MIT License. Anda bebas memodifikasi dan menyebarluaskan dengan tetap menyertakan kredit kepada pengembang asli.
 
-👩‍💻 Tim Pengembang
+ 7. Tim Pengembang
 
-Eduardo Gunawan
+1. Eduardo Gunawan (Front-End Developer)
 
-Vinno Alvian Chow
+2. Vinno Alvian Chow (Back-End Developer)
 
-Gracia Queen Anastacia
+3. Gracia Queen Anastacia (UI/UX Designer)
